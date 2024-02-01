@@ -1,1 +1,1 @@
-web_static
+Directory implements webpage design.
